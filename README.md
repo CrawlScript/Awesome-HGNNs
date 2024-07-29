@@ -13,3 +13,6 @@ Pre-computation-based HGNNs are usually scalable and efficient.
 
 
 ## End-to-End HGNNs
+
+- **HINormer**: Qiheng Mao, Zemin Liu, Chenghao Liu, and Jianling Sun. "HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer." In Proceedings of the ACM Web Conference 2023, pp. 599-610. 2023. [[paper](https://arxiv.org/abs/2302.11329)]
+- **Simple-HGN**: Qingsong Lv, Ming Ding, Qiang Liu, Yuxiang Chen, Wenzheng Feng, Siming He, Chang Zhou, Jianguo Jiang, Yuxiao Dong, and Jie Tang. "Are we really making much progress? revisiting, benchmarking and refining heterogeneous graph neural networks." In Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining, pp. 1150-1160. 2021. [[paper](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/KDD21-Lv-et-al-HeterGNN.pdf)]
