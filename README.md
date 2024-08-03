@@ -24,3 +24,9 @@ Pre-computation-based HGNNs are usually scalable and efficient.
 - **GTN**: Seongjun Yun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, and Hyunwoo J. Kim. "Graph transformer networks." Advances in neural information processing systems 32 (2019). [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf)]
 - **HAN**: Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Yanfang Ye, Peng Cui, and Philip S. Yu. "Heterogeneous graph attention network." In The world wide web conference, pp. 2022-2032. 2019. [[paper](https://arxiv.org/pdf/1903.07293)]
 - **RGCN**: Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne Van Den Berg, Ivan Titov, and Max Welling. "Modeling relational data with graph convolutional networks." In The semantic web: 15th international conference, ESWC 2018, Heraklion, Crete, Greece, June 3–7, 2018, proceedings 15, pp. 593-607. Springer International Publishing, 2018. [[paper](https://arxiv.org/pdf/1703.06103)]
+
+
+## Datasets
+
+- **HGB** (DBLP, IMDB, ACM, Freebase):  [[paper](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/KDD21-Lv-et-al-HeterGNN.pdf)] [[download](https://github.com/CrawlScript/gnn_datasets/tree/master/HGB)]
+- ogb-mag: [[paper](https://arxiv.org/pdf/2005.00687)][[leaderboard](https://ogb.stanford.edu/docs/nodeprop/#ogbn-mag)][[download](https://ogb.stanford.edu/docs/home/)]
